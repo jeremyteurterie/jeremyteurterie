@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Connect with me :
+<p align="left">
+  <a href="https://twitter.com/jeremyteurterie">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
 ### Languages & Tools :
 
 <p align="left">
