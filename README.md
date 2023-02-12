@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
 <p align="center">
