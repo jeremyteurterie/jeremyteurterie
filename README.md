@@ -19,6 +19,9 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/jeremyteurterie">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+    <a href="https://www.instagram.com/jeremyteurterie">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 </p>
 
 ### Languages & Tools :
