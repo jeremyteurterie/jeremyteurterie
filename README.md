@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+![img_contact](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-light-mode-only)
+![img_contact](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-dark-mode-only)
