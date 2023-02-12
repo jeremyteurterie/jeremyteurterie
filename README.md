@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:
-<p align="center"### Languages and Tools</p>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
