@@ -24,5 +24,10 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,js,react" />
   </a>
 </p>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react" />
+  </a>
+</p>
 
 
