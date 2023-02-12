@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-light-mode-only)
 ![](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-dark-mode-only)
 -->
-### Technos :
+#### Technos :
 
 <p align="center">
   <a href="https://skillicons.dev">
