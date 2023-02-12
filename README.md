@@ -13,9 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-### Connect with me:
-
 ![](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-light-mode-only)
 ![](./img/globe-light.svg)](https://twitter.com/jeremyteurterie#gh-dark-mode-only)
+-->
+
+
