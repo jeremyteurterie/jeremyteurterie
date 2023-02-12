@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### Connect with me :
 <p align="left">
+    <a href="">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
   <a href="https://twitter.com/jeremyteurterie">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
