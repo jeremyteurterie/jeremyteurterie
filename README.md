@@ -31,12 +31,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vscode,git" />
   </a>
 </p>
 
