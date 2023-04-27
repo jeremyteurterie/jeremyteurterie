@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <!-- You can check the workflows here: (.github/workflows)   -->
 
-<details>
+<!-- <details>
   <summary>Expand</summary> 
 
 | Overview | Follow up Issues & PRs |
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 </details>                     
 <br>
-<hr>
+<hr> -->
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
