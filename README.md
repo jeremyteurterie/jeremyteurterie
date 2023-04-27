@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 # Work <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
 <a href=""><img src="https://img.shields.io/badge/Portfolio-1DBF73?style=for-the-badge&logo=Google-chrome&logoColor=white" />
 
-| Projects | Deployed Link | Repository | Tech Stack |
+| Projects | Production | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
 | Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
 | Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
