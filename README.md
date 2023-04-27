@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 | Fisheye | [view](https://fisheye-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` |
 | Gameon | [view](https://gameon-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` |
 | Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT` `JAVASCRIPT` `CSS3` |
+
 
 
 
