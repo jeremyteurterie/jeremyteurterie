@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 | Projects | Deployed Link | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
 | Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
+| Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
