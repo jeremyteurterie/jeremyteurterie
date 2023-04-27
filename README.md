@@ -59,6 +59,8 @@ Here are some ideas to get you started:
 |:---------|:-------------:|:----------:|:-----------|
 | Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
 | Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
+| Fisheye | [view](https://fisheye-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` |
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
