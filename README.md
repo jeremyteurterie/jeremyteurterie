@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 | Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
 | Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` `VERCEL` |
 | SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` `VERCEL` |
-| Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` `VERCEL` |
+| Remede-Agency | [view](https://remede-agency-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` `VERCEL` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
