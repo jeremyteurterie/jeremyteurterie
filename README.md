@@ -63,8 +63,8 @@ Here are some ideas to get you started:
 | Gameon | [view](https://gameon-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
 | Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
 | Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` `VERCEL` |
-| SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` `VERCEL` |
-| Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` `VERCEL` |
+| SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` |
+| Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
