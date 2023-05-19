@@ -54,12 +54,12 @@ Here are some ideas to get you started:
 
 | Projects | Production | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
-| Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` `VERCEL` |
-| Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` `VERCEL` |
-| Fisheye | [view](https://fisheye-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
-| Gameon | [view](https://gameon-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
-| Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` `VERCEL` |
-| Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` `VERCEL` |
+| Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
+| Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
+| Fisheye | [view](https://fisheye-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Gameon | [view](https://gameon-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` |
 | SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` |
 | Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
