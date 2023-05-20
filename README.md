@@ -35,6 +35,13 @@ Here are some ideas to get you started:
     <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.jeremyteurterie" alt="visitors"/>   
 </p>
 
+<div align="center">
+    <a href="mailto:jeremy.teurterie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <a href="https://www.linkedin.com/in/jeremyteurterie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://twitter.com/jeremyteurterie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+    <a href=""><img src="https://img.shields.io/badge/linktree-39E09B?style=flat&logo=linktree&logoColor=white" />
+</div>
+
 <!--   my-kaggle     
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
@@ -80,7 +87,7 @@ Here are some ideas to get you started:
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Work <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
-<a href=""><img src="https://img.shields.io/badge/Portfolio-1DBF73?style=for-the-badge&logo=Google-chrome&logoColor=white" />
+<!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-1DBF73?style=for-the-badge&logo=Google-chrome&logoColor=white" /> -->
 
 | Projects | Production | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
@@ -95,15 +102,6 @@ Here are some ideas to get you started:
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-# Connect <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40">
-<div align="center">
-    <a href="https://www.linkedin.com/in/jeremyteurterie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:jeremy.teurterie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    <a href="https://twitter.com/jeremyteurterie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-    <a href=""><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-</div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
