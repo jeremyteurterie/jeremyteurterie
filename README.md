@@ -15,29 +15,58 @@ Here are some ideas to get you started:
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+![](assets/Bottom_up.svg)
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="right" height="48" width="48" ></a>
+
+
+<!--   my-ticker -->  
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jeremy+Teurterie;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+
+<!--   my-icons -->
 <p align="center">
-<a href="https://github.com/jeremyteurterie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=400&size=25&duration=1&pause=1000&color=55BD7DFF&width=440&height=45&lines=Jeremy+Teurterie" /></a>
+    <a href="https://github.com/jeremyteurterie/jeremyteurterie"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/jeremyteurterie/jeremyteurterie/graphs/contributors"><img src="https://img.shields.io/github/contributors/jeremyteurterie/jeremyteurterie?color=blue"></a>
+    <a href="https://github.com/jeremyteurterie/jeremyteurterie/stargazers"><img src="https://img.shields.io/github/stars/jeremyteurterie/jeremyteurterie.svg?logo=github"></a>
+    <a href="https://github.com/jeremyteurterie/jeremyteurterie/network/members"><img src="https://img.shields.io/github/forks/jeremyteurterie/jeremyteurterie.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.jeremyteurterie" alt="visitors"/>   
 </p>
-<p align="center">
-<a href="https://github.com/jeremyteurterie">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&weight=400&size=25&pause=800&color=55BD7DFF&width=440&height=45&lines=Hello+there;I+am+developer" /></a>
-    <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+<!--   my-kaggle     
+### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
+
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
+-->
+
+
+                                                                    
+
 <!--- -- Visitor Badge ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<p align="center">
-<a href="https://github.com/jeremyteurterie">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjeremyteurterie%2Fjeremyteurterie&label=VISITORS&labelColor=%23007EC6&countColor=%23ggg" /></a>
-</p>
 <div align="center"
-<br>
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Languages Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
-<div align="center">
+<!--   my-skils -->
+
+| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Language / IDE**                              | ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-3776AB?style=flat&logo=JavaScript&logoColor=white) ![React Badge](https://img.shields.io/badge/-React-3776AB?style=flat&logo=React&logoColor=white) ![NodeJS Badge](https://img.shields.io/badge/-Node.js-3776AB?style=flat&logo=Node.js&logoColor=white) ![ExpressJS Badge](https://img.shields.io/badge/-Express.js-3776AB?style=flat&logo=Node.js&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **Domain Knownledge**                           | [![Web Development Badge](https://img.shields.io/badge/-Web%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Ajeremyteurterie&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=flat&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=flat&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Databases**                                   |   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **OS**                                          | <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white"/>                                                                                                                                                                                                                                                                       |
+| **Tools & Platform**                            |  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"/> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/> 
+<!-- <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -47,7 +76,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+</div> -->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Work <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
