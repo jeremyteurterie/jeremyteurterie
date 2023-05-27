@@ -108,5 +108,5 @@ Here are some ideas to get you started:
 | -- |
 
 <p align="center">
-<a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="300" alt="Jeremy Teurterie's Dev Card"/></a>
+<a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"/></a>
 </p>
