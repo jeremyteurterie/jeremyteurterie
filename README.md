@@ -24,10 +24,6 @@ Here are some ideas to get you started:
 <a href="https://javascript.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="right" height="45" width="48" ></a>
 </p>
 
-<a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"/></a>
-
-
-
 <!--   my-ticker -->  
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jeremy+Teurterie;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
@@ -103,9 +99,6 @@ Here are some ideas to get you started:
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 # Stats
-<p>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jeremyteurterie&bg_color=161B22&color=9e9e9e&line=bababa&point=a76c6c&area=true&hide_border=true&hide_title=true" />
-</p>
 
 
 | ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyteurterie&theme=tokyonight)
@@ -113,3 +106,7 @@ Here are some ideas to get you started:
       
 | ![trophy](https://github-profile-trophy.vercel.app/?username=jeremyteurterie&theme=tokyonight) |
 | -- |
+
+<p align="center">
+<a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="300" alt="Jeremy Teurterie's Dev Card"/></a>
+</p>
