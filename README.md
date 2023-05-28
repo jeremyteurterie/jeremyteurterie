@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 | Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` |
 | SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` |
 | Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` |
+| Wealth-Health | [view](https://wealth-health-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/wealth-health) | `REACT.JS` `CSS3` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
