@@ -82,15 +82,15 @@ Here are some ideas to get you started:
 
 | Projects | Production | Repository | Tech Stack |
 |:---------|:-------------:|:----------:|:-----------|
-| Booki | [view](https://booki-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
-| Ohmyfood | [view](https://ohmyfood-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
-| Fisheye | [view](https://fisheye-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` |
-| Gameon | [view](https://gameon-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` |
-| Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` |
-| Kasa | [view](https://kasa-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` |
-| SportSee | - | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` |
-| Remede-Agency | - | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` |
-| Wealth-Health | [view](https://wealth-health-jeremyteurterie.vercel.app/) | [view](https://github.com/jeremyteurterie/wealth-health) | `REACT.JS` `CSS3` |
+| Booki | [view](https://booki-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/booki) | `HTML5` `CSS3` |
+| Ohmyfood | [view](https://ohmyfood-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/ohmyfood) | `HTML5` `CSS3` `SASS` |
+| Fisheye | [view](https://fisheye-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/fisheye) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Gameon | [view](https://gameon-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/gameon) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Les-Petits-Plats | [view](https://les-petits-plats-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/les-petits-plats) | `JAVASCRIPT` `HTML5` `CSS3` |
+| Kasa | [view](https://kasa-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/kasa) | `REACT.JS` `CSS3` |
+| SportSee | [view](https://sportsee-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/sportsee) | `REACT.JS` `NODE.JS` `CSS3` |
+| Remede-Agency | [view](https://remede-agency-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/remede-agency) | `REACT.JS` `NODE.JS` `MONGODB` `CSS3` |
+| Wealth-Health | [view](https://wealth-health-jeremyteurterie.netlify.app) | [view](https://github.com/jeremyteurterie/wealth-health) | `REACT.JS` `CSS3` |
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Let's Chat Here ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
