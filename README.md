@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--   my-ticker -->  
-<a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"/></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jeremy+Teurterie;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--   my-icons -->
@@ -99,5 +98,5 @@ Here are some ideas to get you started:
 # Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="icon of stats" width="40" />
 
 
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremyteurterie&theme=tokyonight) | <a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"/></a>
-| -- | -- | -- | -- |
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight) | <a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"/></a>
+| -- | -- | -- |
