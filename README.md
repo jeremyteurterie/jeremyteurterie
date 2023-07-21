@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!--   my-icons -->
 <div align="center">
-    <a href="mailto:jeremy.teurterie@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <a href="mailto:contact@jeremyteurterie.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
     <a href="https://www.linkedin.com/in/jeremyteurterie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://twitter.com/jeremyteurterie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
 </div>
