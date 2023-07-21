@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p>
 
 <!--   my-ticker -->  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Jeremy+Teurterie;+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--   my-icons -->
 <div align="center">
