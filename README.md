@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--   my-header-img -->
 <p align="center">
     <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="right" height="48" width="48" ></a>
-<a href="https://javascript.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" align="right" height="45" width="48" ></a>
+<a href="https://javascript.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="right" height="45" width="48" ></a>
 <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="right" height="48" width="48" ></a>
 </p>
 
