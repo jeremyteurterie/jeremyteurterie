@@ -15,16 +15,18 @@ Here are some ideas to get you started:
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 ![](assets/Bottom_up.svg)
 
 <!--   my-header-img -->
 <p align="center">
     <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="right" height="48" width="48" ></a>
-<a href="https://www.typescriptlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" align="right" height="45" width="48" ></a>
+<a href="https://javascript.info/"><img src="https://es.wikipedia.org/wiki/JavaScript#/media/Archivo:Unofficial_JavaScript_logo_2.svg" align="right" height="45" width="48" ></a>
 <a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="right" height="48" width="48" ></a>
 </p>
 
-<!--   my-ticker -->  
+<!--   my-ticker -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!)](https://git.io/typing-svg)
 
 <!--   my-icons -->
@@ -43,7 +45,8 @@ Here are some ideas to get you started:
 </div>
 
 #
-<!--   my-kaggle     
+
+<!--   my-kaggle
 ### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
 
 ![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
@@ -52,16 +55,14 @@ Here are some ideas to get you started:
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
 -->
 
-                                                                    
-
 <!--- -- Visitor Badge ------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <div align="left"
 ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight)
-| -- | -- |
+
+| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
