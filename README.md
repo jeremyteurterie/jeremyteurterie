@@ -1,68 +1,28 @@
-<!--
-**jeremyteurterie/jeremyteurterie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
+### I'm Jeremy Teurterie, welcome to my profile.
 
-Here are some ideas to get you started:
+- 🌴 I am a <b>Freelance Front-End Developer</b>
+- 📫 Find out more about me here : <b><a href="https://jeremyteurterie.com" target="_blank">jeremyteurterie.com</a></b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Typing SVG ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!-- #### 🚀 My projects
 
-![](assets/Bottom_up.svg)
+- <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
+- <a href="https://lnui.lndev.me/" target="_blank">LNUI</a> : With LNUI you will have components of all types that will allow you to build your website from scratch.
+- <a href="https://wp.lndev.me/" target="_blank">World Portfolios</a> : Open source collection of World Portfolios. -->
 
-<!--   my-header-img -->
-<p align="center">
-    <a href="https://nodejs.org/en"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" align="right" height="48" width="48" ></a>
-<a href="https://javascript.info/"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" align="right" height="45" width="48" ></a>
-<a href="https://react.dev/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" align="right" height="48" width="48" ></a>
-</p>
+#### Wakatime
+[![wakatime-stats](https://github.com/jeremyteurterie/jeremyteurterie/blob/master/images/stat.svg)](https://wakatime.com/@jeremyteurterie)
 
-<!--   my-ticker -->
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@jeremyteurterie)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!)](https://git.io/typing-svg)
+#### 🌐 Follow me on
 
-<!--   my-icons -->
-<div align="center">
-    <a href="mailto:contact@jeremyteurterie.com"><img src="https://img.shields.io/badge/Mail-D14836?style=flat&logo=gmail&logoColor=white" />
-    <a href="https://www.linkedin.com/in/jeremyteurterie/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-    <a href="https://twitter.com/jeremyteurterie"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
-    <a href="https://www.instagram.com/jeremyteurterie/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-    <a href="https://www.jeremyteurterie.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white" />
-</div>
+- <a href="https://twitter.com/jeremyteurterie" target="_blank">X ( Twitter )</a>
+- <a href="https://linkedin.com/in/jeremyteurterie" target="_blank">LinkedIn</a>
+- <a href="https://instagram.com/jeremyteurterie" target="_blank">Instagram</a>
+- <a href="https://bento.me/jeremyteurterie" target="_blank">My Bento</a>
 
-#
+![](https://komarev.com/ghpvc/?username=jeremyteurterie)
 
-<div align="center">
-    <a href="https://app.daily.dev/jay9I"><img src="https://api.daily.dev/devcards/a1dc62045de04522a95ef073242cdd70.png?r=rek" width="200" alt="Jeremy Teurterie's Dev Card"></a>
-</div>
-
-#
-
-<!--   my-kaggle
-### My achievements on [kaggle](https://www.kaggle.com/andrej0marinchenko):
-
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/competition/light)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/dataset/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/andrej0marinchenko/discussion/light)
--->
-
-<!--- -- Visitor Badge ------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<div align="left"
------------------------------------------------------------------------------------------------------------------------------------------------------- -->
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- GitHub Stats ------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-| ![Anmol Baranwal github stats](https://github-readme-stats.vercel.app/api?username=jeremyteurterie&show_icons=true&theme=tokyonight&count_private=true) | ![Anmol Baranwal GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeremyteurterie&theme=tokyonight) |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+#### 💰 Support
+<p><a href="https://www.buymeacoffee.com/jeremyteurterie"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=jeremyteruterie&button_colour=57CC99&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a></p><br><br>
