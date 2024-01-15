@@ -17,10 +17,11 @@
 
 #### 🌐 Follow me on
 
-- <a href="https://twitter.com/jeremyteurterie" target="_blank">X ( Twitter )</a>
 - <a href="https://linkedin.com/in/jeremyteurterie" target="_blank">LinkedIn</a>
-- <a href="https://instagram.com/jeremyteurterie" target="_blank">Instagram</a>
 - <a href="https://bento.me/jeremyteurterie" target="_blank">My Bento</a>
+- <a href="https://twitter.com/jeremyteurterie" target="_blank">X</a>
+- <a href="https://www.facebook.com/profile.php?id=100080409813583" target="_blank">Facebook</a>
+- <a href="https://instagram.com/jeremyteurterie" target="_blank">Instagram</a>
 
 ![](https://komarev.com/ghpvc/?username=jeremyteurterie)
 
