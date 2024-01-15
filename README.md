@@ -13,8 +13,6 @@
 #### Wakatime
 [![wakatime-stats](https://github.com/jeremyteurterie/jeremyteurterie/blob/master/images/stat.svg)](https://wakatime.com/@jeremyteurterie)
 
-https://wakatime.com/badge/user/018d0c30-cb46-44be-b509-d953ea8a8215.svg
-
 [![wakatime](https://wakatime.com/badge/user/018d0c30-cb46-44be-b509-d953ea8a8215.svg)](https://wakatime.com/@018d0c30-cb46-44be-b509-d953ea8a8215)
 
 #### 🌐 Follow me on
