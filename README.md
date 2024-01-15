@@ -13,7 +13,9 @@
 #### Wakatime
 [![wakatime-stats](https://github.com/jeremyteurterie/jeremyteurterie/blob/master/images/stat.svg)](https://wakatime.com/@jeremyteurterie)
 
-[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@jeremyteurterie)
+https://wakatime.com/badge/user/018d0c30-cb46-44be-b509-d953ea8a8215.svg
+
+[![wakatime](https://wakatime.com/badge/user/018d0c30-cb46-44be-b509-d953ea8a8215.svg)](https://wakatime.com/@018d0c30-cb46-44be-b509-d953ea8a8215)
 
 #### 🌐 Follow me on
 
