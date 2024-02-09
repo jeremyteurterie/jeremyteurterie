@@ -1,7 +1,7 @@
 ## Hello 👋
 ### I'm Jeremy Teurterie, welcome to my profile.
 
-- 🌴 I am a <b>Freelance Front-End Developer</b>
+- 🌴 I am a <b>Freelance Web Developer</b>
 - 📫 Find out more about me here : <b><a href="https://jeremyteurterie.com" target="_blank">jeremyteurterie.com</a></b>
 
 <!-- #### 🚀 My projects
