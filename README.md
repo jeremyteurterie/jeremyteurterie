@@ -4,17 +4,6 @@
 - 🌴 I am a <b>Freelance Web Developer</b>
 - 📫 Find out more about me here : <b><a href="https://jeremyteurterie.com" target="_blank">jeremyteurterie.com</a></b>
 
-<!-- #### 🚀 My projects
-
-- <a href="https://sharuco.lndev.me/" target="_blank">Sharuco</a> : Share and explore essential codes, create forms to retrieve information and keep useful links.
-- <a href="https://lnui.lndev.me/" target="_blank">LNUI</a> : With LNUI you will have components of all types that will allow you to build your website from scratch.
-- <a href="https://wp.lndev.me/" target="_blank">World Portfolios</a> : Open source collection of World Portfolios. -->
-
-#### Wakatime
-[![wakatime-stats](https://github.com/jeremyteurterie/jeremyteurterie/blob/master/images/stat.svg)](https://wakatime.com/@jeremyteurterie)
-
-[![wakatime](https://wakatime.com/badge/user/018d0c30-cb46-44be-b509-d953ea8a8215.svg)](https://wakatime.com/@018d0c30-cb46-44be-b509-d953ea8a8215)
-
 #### 🌐 Follow me on
 
 - <a href="https://linkedin.com/in/jeremyteurterie" target="_blank">LinkedIn</a>
