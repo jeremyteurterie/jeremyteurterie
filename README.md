@@ -2,7 +2,7 @@
 ### I'm Jeremy Teurterie, welcome to my profile.
 
 - 🌴 I am a <b>Freelance Web Developer</b>
-- 📫 Find out more about me here : <b><a href="https://jeremyteurterie.com" target="_blank">jeremyteurterie.com</a></b>
+- 📫 Find out more about me here : <b><a href="https://jeremyteurterie.com" target="_blank">www.jeremyteurterie.com</a></b>
 
 #### 🌐 Follow me on
 
